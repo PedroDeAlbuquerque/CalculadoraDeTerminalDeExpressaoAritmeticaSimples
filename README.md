@@ -8,14 +8,18 @@ Multiplicação (*)
 
 # Exemplos de expressões aritméticas válidas e inválidas
 * Válidas
-    15 + 8
-    4,6 / 2
-    7.5 * 4,3
-    5 -2
-    4.0+2.3
+```
+15 + 8
+4,6 / 2
+7.5 * 4,3
+5 -2
+4.0+2.3
+```
 * Inválidas
-    45 + 2 + 3 (Não serão aceitos mais do que dois números)
-    (4.4 + 4.2) (Parenteses não são permitidos)
-    3 +-/* 7
-    3 + x
-    5x = 3,5
+```
+45 + 2 + 3 (Não serão aceitos mais do que dois números)
+(4.4 + 4.2) (Parenteses não são permitidos)
+3 +-/* 7
+3 + x
+5x = 3,5
+```
