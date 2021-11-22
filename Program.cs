@@ -1,7 +1,4 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace CalculadoraDeTerminal
+﻿namespace CalculadoraDeTerminal
 {
     internal class Program
     {

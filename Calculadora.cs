@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace CalculadoraDeTerminal
 {
@@ -84,7 +81,7 @@ namespace CalculadoraDeTerminal
             else
             {
                 Console.WriteLine($"" +
-                    $"A expressão: '{expressaoAritmetica}' , é uma expressão aritmética inválida, " +
+                    $"A expressão: ({expressaoAritmetica}) , é uma expressão aritmética inválida, " +
                     $"por favor, digite uma expresão aritmética válida de acordo com os requisitos da calculadora."
                     );
                 MostrarRegrasDaCalculadora();
