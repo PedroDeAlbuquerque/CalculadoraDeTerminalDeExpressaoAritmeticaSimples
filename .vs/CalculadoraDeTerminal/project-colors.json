@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c790d81-4b12-409a-851c-9ad49b755d43": {
+      "ProjectGuid": "6c790d81-4b12-409a-851c-9ad49b755d43",
+      "DisplayName": "CalculadoraDeTerminal",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

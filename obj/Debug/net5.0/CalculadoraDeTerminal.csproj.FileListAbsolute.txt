@@ -1,0 +1,16 @@
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.exe
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.deps.json
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.runtimeconfig.json
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.runtimeconfig.dev.json
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.dll
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\ref\CalculadoraDeTerminal.dll
+C:\workspace\estudo_c#\CalculadoraDeTerminal\bin\Debug\net5.0\CalculadoraDeTerminal.pdb
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.csproj.AssemblyReference.cache
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.AssemblyInfoInputs.cache
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.AssemblyInfo.cs
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.csproj.CoreCompileInputs.cache
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.dll
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\ref\CalculadoraDeTerminal.dll
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.pdb
+C:\workspace\estudo_c#\CalculadoraDeTerminal\obj\Debug\net5.0\CalculadoraDeTerminal.genruntimeconfig.cache
